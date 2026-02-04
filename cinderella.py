@@ -83,7 +83,7 @@ questions = [
 
 choices = [
 
-    ["A: 800k", "B: 1000k", "C: 1200k", "D: 1400k"],
+    ["A: 100,000", "B: 400,000", "C: 800,000", "D: 1,000,000"],
 
     ["A: 1", "B: 2", "C: 3", "D: 4"],
 
@@ -109,12 +109,12 @@ choices = [
 ]
 
 
-correct_answers = ["A", "C", "C", "B", "A", "A", "C", "A"]
+correct_answers = ["C", "C", "C", "B", "A", "A", "C", "A"]
 
 
 explanations = {
 
-    "A1": "Correct! Production is 800k bottles per month.",
+    "C1": "Correct! Production is 800k bottles per month.",
 
     "C2": "Correct! There are currently 3 variants.",
 
