@@ -75,7 +75,7 @@ questions = [
 
     "What makes Cinderella special?",
 
-    "Time between PC and SOP?",
+    "What was the time between PC and SOP?",
 
     "Are you excited for Cinderella's launch?"
 ]
@@ -105,7 +105,7 @@ choices = [
 
     ["A: 18 Months", "B: 24 Months", "C: 8 Months", "D: 21 Months"],
 
-    ["A: YES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 😊", "B: No 🙁", "C: Not sure 🤔", "D: I guess? 🤷‍♂️"]
+    ["A: YES! I cannot wait to try it! 😊", "B: No 🙁", "C: Not sure 🤔", "D: I guess? 🤷‍♂️"]
 ]
 
 
@@ -126,7 +126,7 @@ explanations = {
 
     "A6": "Correct! The special shower cap enables direct to floor application.",
 
-    "C7": "Correct! PC to SOP took ONLY 8 months!",
+    "C7": "Correct! The team successfuly managed a very stretched CPS, going from PC to SOP in ONLY 8 months!",
 
     "A8": "Correct! Enthusiasm is key 😄"
 }
